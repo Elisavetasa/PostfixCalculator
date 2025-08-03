@@ -34,12 +34,13 @@
 ---
 
 ## Примеры использования
-![пример](https://i.imgur.com/GJu2SFp.gif)
+![демонстрация работы](https://i.imgur.com/GJu2SFp.gif)
 
 ---
 
 # Примеры обработки ошибок
-тут вставить гиф
+![ошибки](https://i.imgur.com/gByOv6H.gif)
+
 
 
 
